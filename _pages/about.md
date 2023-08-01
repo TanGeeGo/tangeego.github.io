@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>337, State Key Laboratory of Extreme Photonics and Instrumentation </p>
-    <p>No.38, Zheda Rd. </p>
-    <p>Hangzhou, Zhejiang, China </p>
+    <p>337, The Third Academic Building </p>
+    <p>Zhejiang University </p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -21,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am going to be a Postdoctral Researcher in the [Samueli ECE](https://www.ee.ucla.edu) at [UCLA](https://www.ucla.edu/), closely working with Prof. [Aydogan Ozcan](https://research.seas.ucla.edu/ozcan/). 
 
-I received my Ph.D. at Zhejiang University, where I co-advised by Prof. [Huajun Feng](https://person.zju.edu.cn/0086127) and Prof. [Zhihai Xu](https://person.zju.edu.cn/0089108#0). My work involves both applied optics and computer vision to realize better computational photography. 
+Previously, I received my Ph.D. at Zhejiang University, where I co-advised by Prof. [Huajun Feng](https://person.zju.edu.cn/0086127) and Prof. [Zhihai Xu](https://person.zju.edu.cn/0089108#0). My PhD research focused on involving both applied optics and computer vision to realize sharper computational photography. I have extensive connections with the industry and some of my works has been implemented into the latest mobile terminals. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I like playing basketball, moreover, interesting digital games also attract me. Besides my name, you can also call me TanGeeGo, which is a nicky-ID through my grown-up (I won't tell you the origin of TanGeeGo is that I couldn't understand the english, "Time To GO!", spoken by the [Rifleman](https://wowpedia.fandom.com/wiki/Rifleman) when I was a child :satisfied:). I like anything that brings happiness, not only for me, but for all around. I believe science and technology are supposed to be fun after all.
