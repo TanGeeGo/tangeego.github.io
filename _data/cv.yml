@@ -38,12 +38,18 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023
+    - year: 2024
       items: 
         - Outstanding Doctral Dissertation Awards of Zhejiang University
     - year: 2023
       items: 
         - Outstanding Doctral Dissertation Awards of the College of Optical Science and Engineering
+    - year: 2023
+      items: 
+        - Excellent Graduate of Zhejiang Province
+    - year: 2023
+      items: 
+        - Excellent Graduate of Zhejiang University
     - year: 2023
       items: 
         - 2nd prize, National Optics and Optical Engineering Doctoral Academic League
@@ -58,7 +64,34 @@
         - 19th Daheng Wang Optical Award
     - year: 2022
       items: 
-        - Top Ten Students of College
+        -  "light of Qiushi" Top Ten Students of College
+    - year: 2022
+      items: 
+        -  Best Presentation Award of the International Post-gradudate Photonics Forum (IPPF 2022)
+    - year: 2022
+      items:
+        -  Guoqiang Scholarship 
+    - year: 2021
+      items:
+        -  Caoguangbiao Scholarship, Advanced Individual of Social Experience (Zhejiang University)
+    - year: 2018
+      items:
+        -  Excellent Graduate of Hubei Province and HUST
+
+- title: Academic service
+  type: nested_list
+  contents:
+    - title: Conference reviewer
+      items:
+        - CV area -> CVPR (2024, 2023, 2022); ICCV (2023); ECCV (2022)
+        - GR area -> SIGGRAPH (2023); SIGGRAPH Asia (2022)
+        - VR area -> IEEE ISMAR (2023)
+    - title: Journal reviewer
+      items:
+        - Nature Communications, IEEE TIP, ACM TOG, OSA OE, Elsevier PRL, Wiley IPR (IET Image Processing).
+    - title: Membership
+      items:
+        - Member of Chinese Optical Society
 
 - title: Other Interests
   type: list
