@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-State Key Laboratory of Extreme Photonics and Instrumentation, Zhejiang Univerity, Hangzhou, China<br>
+State Key Laboratory of Extreme Photonics and Instrumentation, Zhejiang Univerity, Hangzhou<br>
 chenshiqi [at] zju.edu.cn, chensq0120 [at] gmail.com<br>
 [Google scholar](https://scholar.google.com/citations?user=gJCsz90AAAAJ&hl) | [Github](https://github.com/TanGeeGo) || [Zhihu](https://www.zhihu.com/people/chenshiqi0120) | [Wechat](http://tangeego.github.io//assets/img/wechat_public_account.jpg) | [Bilibili](https://space.bilibili.com/318625627?spm_id_from=333.1007.0.0)
 
