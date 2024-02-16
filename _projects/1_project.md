@@ -30,7 +30,9 @@ As the popularity of mobile photography continues to grow, considerable effort i
 
 <div class="row">
     <div class="col-sm d-flex justify-content-center mt-3 mt-md-0">
-        {% include figure.html path="assets/img/background_tog.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div style="max-width: 80%;">
+            {% include figure.html path="assets/img/background_tog.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
 </div>
 <div class="caption">
@@ -56,7 +58,9 @@ The goal of our work is to propose a practical method for recovering the degrada
 
 <div class="row">
     <div class="col-sm d-flex justify-content-center mt-3 mt-md-0">
-        {% include figure.html path="assets/img/superposition_tog.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div style="max-width: 80%;">
+            {% include figure.html path="assets/img/superposition_tog.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
 </div>
 <div class="caption">
@@ -85,19 +89,21 @@ The goal of our work is to propose a practical method for recovering the degrada
 
 ### In Aberration Correction, we 
 
-- Designed a deformable Unet. 
+- Designed a novel spatial-adaptive CNN architecture, which introduces FOV input, deformable ResBlock, and context block to adapt to spatially variant degradation.
 
 <div class="row">
     <div class="col-sm d-flex justify-content-center mt-3 mt-md-0">
-        {% include figure.html path="assets/img/network_tog.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div style="max-width: 80%;">
+            {% include figure.html path="assets/img/network_tog.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
 </div>
 <div class="caption">
-    Our deformable Unet for optical aberration correction.
+    Our spatial-adaptive CNN architecture for optical aberration correction.
 </div>
 
 ## Experiments: 
-Only **trained with synthetic data**, the proposed deep-learning method is validated to realize **excellent restoration** in the natural scene.
+Only **trained with synthetic data**, the proposed deep-learning method is validated to realize **excellent restoration** in the natural scene. First, we evaluate the performance of the proposed model:
 
 <div class="row">
     <div class="col-sm d-flex justify-content-center mt-3 mt-md-0">
@@ -108,6 +114,7 @@ Only **trained with synthetic data**, the proposed deep-learning method is valid
     Real-shoot image restoration comparison. The first row and the second row present the test results of the DSLR camera lens. The third and the fourth row are the results of HUAWEI HONOR 20.
 </div>
 
+In the implementation,
 <div class="row">
     <div class="col-sm d-flex justify-content-center mt-3 mt-md-0">
         {% include figure.html path="assets/img/isp_tog.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -117,14 +124,17 @@ Only **trained with synthetic data**, the proposed deep-learning method is valid
     Aberrations correction vs. HUAWEI ISP. Experimental results of the aberration correction pipeline and the HUAWEI ISP are amplified on both sides of the image. We show different FOVs’ patches for validation.
 </div>
 
+Where is the limit of the correction? We use MTF evaluations to answer this question.
 <div class="row">
     <div class="col-sm d-flex justify-content-center mt-3 mt-md-0">
-        {% include figure.html path="assets/img/mtf_tog.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div style="max-width: 60%;">
+            {% include figure.html path="assets/img/mtf_tog.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
 </div>
 <div class="caption">
     After correction, our method could greatly enhance the MTF of optical system.
 </div>
 
-## Main Observation: 
-When the forward simulation is comprehensive, the imaging results of a camera could be accurately predicted. The PSF calculation and the energy transform pipeline are of equal importance. In this way, only trained with synthetic data, the proposed deep-learning method is validated to realize excellent restoration in the natural scene.
+## Our Main Observation: 
+When the forward simulation is **comprehensive**, the imaging results of a camera could be **accurately predicted**. The **PSF calculation** and the **energy transform pipeline** are of equal importance. In this way, only trained with synthetic data, the proposed deep-learning method is validated to realize excellent restoration in the natural scene.
