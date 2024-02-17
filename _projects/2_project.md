@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Degradation Transfer
-description: if the degradation on one image could be transfer to another picture?
+description: if the degradation on one image can transfer to another picture?
 img: assets/img/degradation_transfer.png
 importance: 2
 category: work
@@ -60,7 +60,7 @@ The degradation transfer used for representation is controlled by many constrain
 
 $$\mathcal{L} = \alpha \mathcal{L}_{fidelity} + \beta \mathcal{L}_{sum2one} + \gamma \mathcal{L}_{boundary} + \delta \mathcal{L}_{sym}$$
 
-here $\alpha$, $\beta$, $\gamma$, $\delta$ are the weight coefficients of different loss functions. $\mathcal{L}_{fidelity}=||x^{d}-y||_{1}$ supervises the fidelity of the degraded result $x^{d}$. $\mathcal{L}_{sum2one}=|1-\Sigma k_{i,j}|$ and $\mathcal{L}_{boundary}=\Sigma |k_{i,j} \cdot m_{i,j}|$ are the loss functions on calculated point spread function $k$ (PSF). 
+here $$\alpha$$, $$\beta$$, $$\gamma$$, $$\delta$$ are the weight coefficients of different loss functions. $$\mathcal{L}_{fidelity}=||x^{d}-y||_{1}$$ supervises the fidelity of the degraded result $$x^{d}$$. $$\mathcal{L}_{sum2one}=|1-\Sigma k_{i,j}|$$ and $$\mathcal{L}_{boundary}=\Sigma |k_{i,j} \cdot m_{i,j}|$$ are the loss functions on calculated point spread function $$k$$ (PSF). 
 
 $$\mathcal{L}_{sym} = \Sigma_{i,j}(k(i,j)-\frac{1}{2}(k(i,j)+k_{sym}(-i, -j)))^{2}$$
 

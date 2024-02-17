@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tolerance Modeling
-description: how to predict the manufacturing error in mass production?
+description: how to predict the error in mass production?
 img: assets/img/tolerance_calibration.png
 # redirect: https://unsplash.com
 importance: 3
@@ -59,9 +59,7 @@ For training the restoring network, we use proxy cameras to generate the data pa
 
 <div class="row">
     <div class="col-sm d-flex justify-content-center mt-3 mt-md-0">
-        <div style="max-width: 80%;">
-            {% include figure.html path="assets/img/network1_tpami.png" title="example image" class="img-fluid rounded z-depth-1" %}
-        </div>
+        {% include figure.html path="assets/img/network1_tpami.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -70,9 +68,7 @@ For training the restoring network, we use proxy cameras to generate the data pa
 
 <div class="row">
     <div class="col-sm d-flex justify-content-center mt-3 mt-md-0">
-        <div style="max-width: 80%;">
-            {% include figure.html path="assets/img/publication_preview/prior_quantization.png" title="example image" class="img-fluid rounded z-depth-1" %}
-        </div>
+            {% include figure.html path="assets/img/publication_preview/prior quantization.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

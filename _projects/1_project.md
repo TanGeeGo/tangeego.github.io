@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imaging Simulation
-description: how to simulate the imaging results for an optical system?
+description: how to synthetic the imaging results for an optical system?
 img: assets/img/realistic_lens.png
 importance: 1
 category: work
