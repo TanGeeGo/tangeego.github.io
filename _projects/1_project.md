@@ -26,7 +26,8 @@ As the popularity of mobile photography continues to grow, considerable effort i
     We present a practical method for optical aberrations correction. We calculate the spatially variant PSFs (shown on the left in 10× resampling) of a specific lens by the proposed optical PSF model. The PSFs are used for imaging simulation to generate training data for the proposed postprocessing chain. Our approach significantly improves image quality (shown on the right) and is convenient for deploying to new devices.
 </div>
 
-**Background**: Different optical system shows different aberration performance. Our aims is to find a general way to correct the various degradation carried out by the optical aberration.
+## Background:  
+Different optical system shows different aberration performance. Our aims is to find a general way to correct the various degradation carried out by the optical aberration.
 
 <div class="row">
     <div class="col-sm d-flex justify-content-center mt-3 mt-md-0">
