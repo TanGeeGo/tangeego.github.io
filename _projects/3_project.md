@@ -68,7 +68,9 @@ For training the restoring network, we use proxy cameras to generate the data pa
 
 <div class="row">
     <div class="col-sm d-flex justify-content-center mt-3 mt-md-0">
+        <div style="max-width: 80%;">
             {% include figure.html path="assets/img/publication_preview/prior quantization.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
 </div>
 <div class="caption">
