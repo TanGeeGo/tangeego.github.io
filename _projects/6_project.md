@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tolerance Modeling
-description: how to predict the error in mass production?
+title: Aberration Separation
+description: Revealing the preference of deep-learning model on optical aberrations
 img: assets/img/aberration_separation.png
 # redirect: https://unsplash.com
 importance: 4
@@ -101,4 +101,4 @@ What optical aberrations do you need to control first in optical designing?
 
 Follow me and say **ASTI > COMA > FCUR > SPHA > CT > CL** (loudly)
 
-Let this **MANTRA** make your **LENS DESIGN BETTER**!!!
+Let this **MANTRA** makes your **LENS DESIGN BETTER**!!!

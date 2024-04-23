@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper published in Elsevier Optics and Lasers in Engineering (OLEN), [Project Page](https://tangeego.github.io/projects/6_project/) :sparkles:
+One interesting paper published in Elsevier Optics and Lasers in Engineering (OLEN), [Project Page](https://tangeego.github.io/projects/6_project/) is here :sparkles:
