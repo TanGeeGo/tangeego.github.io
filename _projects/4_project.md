@@ -23,11 +23,11 @@ category: life
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-7 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/landscape/DSC01.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/landscape/DSC03.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/landscape/DSC04.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -36,15 +36,18 @@ category: life
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-7.5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/landscape/DSC04.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/landscape/DSC07.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/landscape/DSC03.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/landscape/DSC08051.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Kashgar, Xinjiang, China
+    Cangnan, Wenzhou, China / Kashgar, Xinjiang, China / Kashgar, Xinjiang, China
 </div>
 
 
@@ -118,7 +121,7 @@ category: life
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/landscape/grandteton_5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/landscape/yellowstone_5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
