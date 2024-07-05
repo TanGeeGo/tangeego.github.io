@@ -51,3 +51,21 @@ category: life
         {% include figure.html path="assets/img/people/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-6 mt-md-0">
+        {% include figure.html path="assets/img/people/people_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-6 mt-md-0">
+        {% include figure.html path="assets/img/people/wz_zhaoqiang.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-4 mt-md-0">
+        {% include figure.html path="assets/img/people/grandteton_6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-6 mt-md-0">
+        {% include figure.html path="assets/img/people/grandteton_7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>

@@ -1,6 +1,22 @@
 ---
 ---
 
+@article{ZHUGE2024108313,
+title = {Calibration-free deep optics for depth estimation with precise simulation},
+journal = {Optics and Lasers in Engineering},
+volume = {180},
+pages = {108313},
+year = {2024},
+issn = {0143-8166},
+doi = {https://doi.org/10.1016/j.optlaseng.2024.108313},
+url = {https://www.sciencedirect.com/science/article/pii/S0143816624002926},
+author = {Zhengyue Zhuge and Hao Xu and Shiqi Chen and Jiahui Xu and Qi Li and Huajun Feng and Zhihai Xu and Yueting Chen},
+keywords = {Deep optics, Diffractive optical element, Computational imaging, Depth estimation, Image restoration},
+ABSTRACT = {Monocular depth estimation is an important computer vision task widely explored in fields such as autonomous driving, robotics, and more. Recently, deep optics approaches that optimize diffractive optical elements (DOEs) with differentiable frameworks have improved depth estimation performance. However, they only consider on-axis point spread functions (PSFs) and are highly dependent on system calibration. We propose a precise end-to-end paradigm combining ray tracing and angular spectrum diffraction. With this approach, we jointly trained a DOE and a reconstruction network for depth estimation and image restoration. Compared with conventional deep optics approaches, we accurately simulate both on-axis and off-axis PSFs, eliminating the need for calibration. We have validated the high similarity between captured PSFs and simulated ones at 19.4∘ field-of-view (FOV). Our optimized phase mask and network achieve state-of-the-art performance among semantic-based monocular depth estimation and existing deep optics methods. During real-world experiments, our prototype camera shows depth distributions similar to the Intel D455 infrared structured light camera.},
+pdf = {https://doi.org/10.1016/j.optlaseng.2024.108313},
+preview = {DOEDepth_zhuge.jpg}
+}
+
 @article{Xu:24,
 author = {Hao Xu and Shiqi Chen and Haiquan Hu and Peng Luo and Zheyan Jin and Qi Li and Zhihai Xu and Huajun Feng and Yueting Chen and Tingting Jiang},
 journal = {Opt. Express},
@@ -339,7 +355,7 @@ doi = {https://doi.org/10.1016/j.optlaseng.2024.108220},
 url = {https://www.sciencedirect.com/science/article/pii/S0143816624001994},
 author = {Jingwen Zhou and Shiqi Chen* and Zheng Ren and Wenguan Zhang and Jiapu Yan and Huajun Feng and Qi Li and Yueting Chen},
 keywords = {Joint optic-image design, Aberration correction preference, Manufacturing deviations, Imaging simulation, Computational photography},
-abstract = {The joint design of the optical system and the downstream algorithm is a challenging and promising task. Due to the demand for balancing the global optima of imaging systems and the computational cost of physical simulation, existing methods cannot achieve efficient joint design of complex systems such as smartphones and drones. In this work, starting from the perspective of the optical design, we characterize the optics with separated aberrations. Additionally, to bridge the hardware and software without gradients, an image simulation system is presented to reproduce the genuine imaging procedure of lenses with large field-of-views. As for aberration correction, we propose a network to perceive and correct the spatially varying aberrations and validate its superiority over state-of-the-art methods. Comprehensive experiments reveal that the preference for correcting separated aberrations in joint design is as follows: longitudinal chromatic aberration, lateral chromatic aberration, spherical aberration, field curvature, and coma, with astigmatism coming last. Drawing from the preference, a 10% reduction in the total track length of the consumer-level mobile phone lens module is accomplished. Moreover, this procedure spares more space for manufacturing deviations, realizing extreme-quality enhancement of computational photography. The optimization paradigm provides innovative insight into the practical joint design of sophisticated optical systems and post-processing algorithms.},
+ABSTRACT = {The joint design of the optical system and the downstream algorithm is a challenging and promising task. Due to the demand for balancing the global optima of imaging systems and the computational cost of physical simulation, existing methods cannot achieve efficient joint design of complex systems such as smartphones and drones. In this work, starting from the perspective of the optical design, we characterize the optics with separated aberrations. Additionally, to bridge the hardware and software without gradients, an image simulation system is presented to reproduce the genuine imaging procedure of lenses with large field-of-views. As for aberration correction, we propose a network to perceive and correct the spatially varying aberrations and validate its superiority over state-of-the-art methods. Comprehensive experiments reveal that the preference for correcting separated aberrations in joint design is as follows: longitudinal chromatic aberration, lateral chromatic aberration, spherical aberration, field curvature, and coma, with astigmatism coming last. Drawing from the preference, a 10% reduction in the total track length of the consumer-level mobile phone lens module is accomplished. Moreover, this procedure spares more space for manufacturing deviations, realizing extreme-quality enhancement of computational photography. The optimization paradigm provides innovative insight into the practical joint design of sophisticated optical systems and post-processing algorithms.},
 preview   = {zhou_reveal.png},
 bibtex_show = {true},
 pdf = {https://www.sciencedirect.com/science/article/pii/S0143816624001994}
