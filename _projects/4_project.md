@@ -2,7 +2,7 @@
 layout: page
 title: Landscape
 description: records in the travels
-img: assets/img/landscape/arch_3.jpg
+img: assets/img/1.jpg
 importance: 3
 category: life
 ---
@@ -139,6 +139,21 @@ category: life
 </div>
 <div class="caption">
     Yellowstone, Wyoming-Montana-Idaho, USA
+</div>
+
+<div class="row justify-content-sm-center">
+<div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/landscape/yosemite_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/landscape/yosemite_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/landscape/yosemite_3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Cangnan, Wenzhou, China / Kashgar, Xinjiang, China / Kashgar, Xinjiang, China
 </div>
 
 <div class="row">
