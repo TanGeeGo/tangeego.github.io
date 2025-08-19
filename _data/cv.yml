@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 20th January 1996
     - name: Languages
-      value: English, Mandarin
+      value: Mandarin, English
 
 - title: Education
   type: time_table
@@ -18,6 +18,9 @@
         - Outstanding Graduates (Zhejiang Province and Zhejiang University).
         - title: Outstanding Doctral Dissertation Awards.
           contents:
+            - Awarded with Chinese Optical Society.
+            - Awarded with Chinese Optical Society of Zhejiang.
+            - Awarded with Zhejiang Province.
             - Awarded with Zhejiang University.
             - Awarded with the College of Optical Science and Engineering.
     - title: BSc
@@ -38,6 +41,15 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items: 
+        - Outstanding Doctral Dissertation Awards of Chinese Optical Society
+    - year: 2024
+      items: 
+        - Outstanding Doctral Dissertation Awards of Chinese Optical Society of Zhejiang
+    - year: 2024
+      items: 
+        - Outstanding Doctral Dissertation Awards of Zhejiang Province
     - year: 2024
       items: 
         - Outstanding Doctral Dissertation Awards of Zhejiang University
@@ -83,17 +95,17 @@
   contents:
     - title: Conference reviewer
       items:
-        - CV area -> CVPR (2024, 2023, 2022); ICCV (2023); ECCV (2022)
+        - CV area -> CVPR (2024, 2023, 2022); ICCV (2025, 2023); ECCV (2024, 2022); AAAI (2025)
         - GR area -> SIGGRAPH (2023); SIGGRAPH Asia (2022)
         - VR area -> IEEE ISMAR (2023)
     - title: Journal reviewer
       items:
-        - Nature Communications, IEEE TIP/TCSVT, ACM TOG, OSA OE, Elsevier PRL, Wiley IPR (IET Image Processing).
-    - title: Membership
-      items:
-        - Member of Chinese Optical Society
+        - Nature Communications, IEEE TIP/TCSVT/TCI, ACM TOG, OSA OE, Elsevier PRL, Wiley IPR (IET Image Processing).
+    # - title: Membership
+    #   items:
+    #     - Member of Chinese Optical Society
 
-- title: Other Interests
-  type: list
-  contents:
-    - Cooking, Basketball, Digital Sports, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - Cooking, Basketball, Digital Sports, etc.

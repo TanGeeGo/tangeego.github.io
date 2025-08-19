@@ -28,6 +28,7 @@ horizontal: false
   </div>
   {%- else -%}
   <div class="grid">
+    <div class="grid-sizer"></div>
     {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}

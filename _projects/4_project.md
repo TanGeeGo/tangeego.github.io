@@ -2,7 +2,7 @@
 layout: page
 title: Landscape
 description: records in the travels
-# img: assets/img/1.jpg
+img: assets/img/landscape/arch_3.jpg
 importance: 3
 category: life
 ---

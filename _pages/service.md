@@ -9,11 +9,11 @@ nav_order: 5
 #### Academic service
 
 - Conference reviewer: 
-  - CV area: CVPR (2023, 2022); ICCV (2023); ECCV (2022)
+  - CV area: CVPR (2024, 2023, 2022); ICCV (2025, 2023); ECCV (2024, 2022); AAAI (2024)
   - GR area: SIGGRAPH (2023); SIGGRAPH Asia (2022)
   - VR area: IEEE ISMAR (2023)
 - Journal reviewer: 
-  - IEEE TIP, ACM TOG, OSA OE, Elsevier PRL, Wiley IPR (IET Image Processing).
+  - IEEE TIP/TCI, ACM TOG, OSA OE, Elsevier PRL, Wiley IPR (IET Image Processing).
 - Membership: 
   - Member of Chinese Optical Society
 

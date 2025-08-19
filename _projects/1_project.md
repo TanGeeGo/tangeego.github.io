@@ -2,7 +2,7 @@
 layout: page
 title: Imaging Simulation
 description: how to synthetic the imaging results for an optical system?
-# img: assets/img/realistic_lens.png
+img: assets/img/realistic_lens.jpg
 importance: 1
 category: work
 related_publications: Chen_2021_TOG

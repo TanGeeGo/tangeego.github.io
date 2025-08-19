@@ -2,7 +2,7 @@
 layout: page
 title: Tolerance Modeling
 description: how to predict the error in mass production?
-# img: assets/img/tolerance_calibration.png
+img: assets/img/tolerance_calibration.jpg
 # redirect: https://unsplash.com
 importance: 3
 category: work
