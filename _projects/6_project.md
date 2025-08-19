@@ -2,7 +2,7 @@
 layout: page
 title: Aberration Separation
 description: Revealing the preference of deep-learning model on optical aberrations
-img: assets/img/aberration_separation.png
+# img: assets/img/aberration_separation.png
 # redirect: https://unsplash.com
 importance: 4
 category: work

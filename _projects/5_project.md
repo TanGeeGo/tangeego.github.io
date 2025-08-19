@@ -2,7 +2,7 @@
 layout: page
 title: People
 description: people in my life
-img: assets/img/people/07_cr.jpg
+# img: assets/img/people/07_cr.jpg
 importance: 3
 category: life
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Degradation Transfer
 description: if the degradation on one image can transfer to another picture?
-img: assets/img/degradation_transfer.png
+# img: assets/img/degradation_transfer.png
 importance: 2
 category: work
 related_publications: Chen_2021_ICCV, Lin_2022_OE
