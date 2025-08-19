@@ -25,5 +25,3 @@ I am a Postdoctral Researcher in the [Samueli ECE](https://www.ee.ucla.edu) at [
 Previously, I received my Ph.D. at Zhejiang University, where I co-advised by Prof. [Huajun Feng](https://person.zju.edu.cn/0086127) and Prof. [Zhihai Xu](https://person.zju.edu.cn/0089108#0). My PhD research focused on involving both applied optics and computer vision to realize sharper computational photography. I have extensive connections with the industry and some of my works has been implemented into the latest mobile terminals. 
 
 Besides my name, you can also call me TanGeeGo, which is a nicky-ID through my grown-up (I won't tell you the origin of TanGeeGo is that I couldn't understand the english, "Time To GO!", spoken by the [Rifleman](https://wowpedia.fandom.com/wiki/Rifleman) when I was a child :satisfied:). I like anything that brings happiness, not only for me, but for all around. I believe science and technology are supposed to be fun after all.
-
-**Research interest:** Optics, Computational Photography, Deep Learning, Low-level Computer Vision, and Advanced Imaging Devices. *Interested in collaboration? Free to Contact me.*
