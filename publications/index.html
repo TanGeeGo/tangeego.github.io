@@ -85,9 +85,6 @@
               <li class="nav-item ">
                 <a class="nav-link" href="/cv/">cv</a>
               </li>
-              <li class="nav-item ">
-                <a class="nav-link" href="/talks/">talks</a>
-              </li>
               <!-- Blog -->
               <li class="nav-item ">
                 <a class="nav-link" href="/blog/">blog</a>
@@ -247,7 +244,7 @@
           <span class="more-authors" title="click to view 4 more authors" onclick="
                 var element = $(this);
                 element.attr('title', '');
-                var more_authors_text = element.text() == '4 more authors' ? 'Jiapu Yan, Bingkun Chen, Huajun Feng, Shiqi* Chen' : '4 more authors';
+                var more_authors_text = element.text() == '4 more authors' ? 'Jiapu Yan, Bingkun Chen, Huajun Feng, Shiqi Chen*' : '4 more authors';
                 var cursorPosition = 0;
                 var textAdder = setInterval(function(){
                   element.text(more_authors_text.substring(0, cursorPosition + 1));
@@ -271,6 +268,7 @@
           <!-- Links/Buttons -->
           <div class="links">
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="https://github.com/Zrr-ZJU/Successive-optimization" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Code</a>
           </div>
           
           <div class="badges">
@@ -279,7 +277,7 @@
           <!-- Hidden bibtex block -->
           <div class="bibtex hidden">
             <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">10976391</span><span class="p">,</span>
-  <span class="na">author</span> <span class="p">=</span> <span class="s">{Ren, Zheng and Zhou, Jingwen and Zhang, Wenguan and Yan, Jiapu and Chen, Bingkun and Feng, Huajun and Chen, Shiqi*}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Ren, Zheng and Zhou, Jingwen and Zhang, Wenguan and Yan, Jiapu and Chen, Bingkun and Feng, Huajun and Chen*, Shiqi}</span><span class="p">,</span>
   <span class="na">journal</span> <span class="p">=</span> <span class="s">{IEEE Transactions on Computational Imaging}</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">{Successive Optimization of Optics and Post-Processing With Differentiable Coherent PSF Operator and Field Information}</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">{2025}</span><span class="p">,</span>
