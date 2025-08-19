@@ -154,10 +154,10 @@ category: life
 </div>
 
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/landscape/lasvegas_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.html path="assets/img/landscape/lasvegas_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -190,10 +190,10 @@ category: life
 </div>
 
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/landscape/arch_5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.html path="assets/img/landscape/zion_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -238,13 +238,13 @@ category: life
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/landscape/glacia_8.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/landscape/glacia_9.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/landscape/glacia_10.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
