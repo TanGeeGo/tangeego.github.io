@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Department of Electrical & Computer Engineering, University of California, Los Angeles<br>
-chensq0120 [at] gmail.com, chenshiqi [at] zju.edu.cn<br>
+chensq0120 [at] gmail.com, chensq0120 [at] g.ucla.edu， chenshiqi [at] zju.edu.cn<br>
 [Google scholar](https://scholar.google.com/citations?user=gJCsz90AAAAJ&hl) | [Github](https://github.com/TanGeeGo) 
 
 I am a Postdoctral Researcher in the [Samueli ECE](https://www.ee.ucla.edu) at [UCLA](https://www.ucla.edu/), working with Prof. [Aydogan Ozcan](https://research.seas.ucla.edu/ozcan/). 
