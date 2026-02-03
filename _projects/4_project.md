@@ -153,7 +153,7 @@ category: life
     </div>
 </div>
 <div class="caption">
-    Cangnan, Wenzhou, China / Kashgar, Xinjiang, China / Kashgar, Xinjiang, China
+    Yosemite, California, USA / Yosemite, California, USA / Los Angeles, California, USA
 </div>
 
 <div class="row">
