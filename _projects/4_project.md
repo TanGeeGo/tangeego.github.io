@@ -170,7 +170,7 @@ category: life
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/landscape/lasvegas_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/landscape/sandiego.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.html path="assets/img/landscape/lasvegas_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -240,12 +240,12 @@ category: life
     Glacier, Montana, USA
 </div>
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/landscape/glacia_5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/landscape/glacia_3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/landscape/glacia_6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/landscape/glacia_4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -265,4 +265,52 @@ category: life
 </div>
 <div class="caption">
     Glacier, Montana, USA
+</div>
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/landscape/grandcanyon.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/landscape/kingscanyon.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/landscape/chinohill.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Grandcanyon, Nevada, USA / Kingscanyon, California, USA / Chinohill, California, USA
+</div>
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/landscape/sedona_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/landscape/phenix.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Sedona, Arizona, USA / Phenix, Arizona, USA
+</div>
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/landscape/petrifiedforest_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/landscape/petrifiedforest.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Petrified Forest, Arizona, USA
+</div>
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/landscape/grifith.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Grifith, California, USA
 </div>
